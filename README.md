@@ -1,5 +1,5 @@
 - 👋 Hi, This is @web-team-iiti
-- 🌱 This is currently being running by Suman Jaiswal
+- 🌱 Head - Suman Jaiswal
 - 📫 Reach me at [webhead.sg@iiti.ac.in](mailto:webhead.sg@iiti.ac.in)
 
 <!---
